@@ -1,5 +1,5 @@
 # remember-me-vue-app
-https://rememberme-vue-app.netlify.app/
+Live version https://rememberme-vue-app.netlify.app/
 
 ## Project setup
 ```
